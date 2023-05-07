@@ -2,7 +2,7 @@
 > 本文档基于 [Docsify](https://docsify.js.org) 部署在 [GitHub](https://github.com/Dorajs/docs)，欢迎一起改进  
 > 由于 Dora.js 还在 __测试阶段__ ，所有 API 都有可能发生变更，请知悉
 
-## Dora.js 是一个什么样的 App？
+## Dora.js 是一个什么样的 App ？
 
 Dora.js 是 Android 上的一个内容型编程平台，提供了强大且简单的一套扩展框架，让你可以轻松写出诸如提供视频、图片、漫画、音乐、图书、文章等的扩展，打造属于自己的内容中心。
 
